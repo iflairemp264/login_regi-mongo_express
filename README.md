@@ -1,4 +1,4 @@
-# user crud + login + register
+# user login + register and crud
 demo app for configuration of node api with express and mongodb connections
 
 ## Running locally
@@ -15,10 +15,10 @@ npm start       >>> start node server
 
 ```
 
-## list of API
-make sure to change db.config.js file with your local dabatabse configuration.
-
+## Run
 Your app should now be running on port 8000
 
 ## changes
+make sure to change db.config.js file with your local dabatabse configuration.
+
 change as per ur requirement
